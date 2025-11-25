@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual env
+.venv/
+env/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Data and models
+*.mp4
+*.avi
+latest_clip*
+gpModel.pt
+
+# Temporary files
+*.tmp
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
